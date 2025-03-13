@@ -4,7 +4,8 @@ OLÁ! Meu nome é Samyra
 -Atualmente estou estudando Engenharia da Computação na UEMA (Universidade Estadual do Maranhão), estou trabalhando em projetos envolvendo Java, HTML, CSS, Python e me interesso muito pela área de Back-End. Além disso,     estou aprofundando meus comnhecimentos em Java, Python e C. Gosto de combinar criatividade com lógica para construir experiências únicas e funcionais.
 
 🛠️FERRAMENTAS E TECNOLOGIAS:
-   ![image](https://github.com/user-attachments/assets/2b051bb7-415c-41ca-9d98-53b498e52044)
+  ![image](https://github.com/user-attachments/assets/5bf835d9-0f93-4988-a385-1fae534b16b0)
+
 
 
 📫VAMOS NOS CONECTAR!
