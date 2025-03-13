@@ -5,7 +5,7 @@ OLÁ! Meu nome é Samyra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, html, css, java, py, c" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
   
