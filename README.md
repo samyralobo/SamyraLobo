@@ -12,7 +12,7 @@ OLÁ! Meu nome é Samyra
 
 <p align="center">
   <a>
-    <h2> -LinkedIn: https://www.linkedin.com/in/samyra-lobo-02b690317/ </h2>
+    <h3> -LinkedIn: https://www.linkedin.com/in/samyra-lobo-02b690317/ </h3>
   </a>
 </p>
 
