@@ -1,16 +1,27 @@
-## Hi there 👋
+##Olá! Meu nome é Samyra
 
-<!--
-**samyralobo/SamyraLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱O QUE EU FAÇO: 
+  -Atualmente estou estudando Engenharia da Computação na UEMA (Universidade Estadual do Maranhão), estou trabalhando em projetos envolvendo Java, HTML, CSS, Python e me interesso muito pela área de Back-End. Além disso,     estou aprofundando meus comnhecimentos em Java, Python e C. Gosto de combinar criatividade com lógica para construir experiências únicas e funcionais.
 
-Here are some ideas to get you started:
+🛠️FERRAMENTAS E TECNOLOGIAS:
+   -GIT e GitHub;
+   -Java;
+   -C;
+   -Python;
+   -HTML e CSS;
+   -Figma;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫VAMOS NOS CONECTAR!
+  -LinkedIn: https://www.linkedin.com/in/samyra-lobo-02b690317/
+  -Instagram: @lo_samyra
+  -Email: samylobosi@gmail.com
+
+⚡FATO INTERESSANTE: Possuo fluência em Inglês e experiência de 4 anos como professora.
+
+
+
+
+
+
+
+
