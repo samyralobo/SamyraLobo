@@ -12,7 +12,7 @@
     <h3> 🛠️FERRAMENTAS E TECNOLOGIAS:  </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,html,css,java,py,c" />
+        <img src="https://skillicons.dev/icons?i=github,git,html,css,java,py,c,figma" />
         </a>
     </p>
 </p>
