@@ -10,6 +10,12 @@ OLÁ! Meu nome é Samyra
   </a>
 </p>
 
+<p align="center">
+  <a>
+    <h2> -LinkedIn: https://www.linkedin.com/in/samyra-lobo-02b690317/ </h2>
+  </a>
+</p>
+
 📫VAMOS NOS CONECTAR!
   -LinkedIn: https://www.linkedin.com/in/samyra-lobo-02b690317/
   -Instagram: @lo_samyra
