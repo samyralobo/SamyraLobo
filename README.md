@@ -5,31 +5,7 @@ OLÁ! Meu nome é Samyra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=github,git,html,css,java,py,c" />
   </a>
 </p>
 
