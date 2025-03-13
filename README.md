@@ -4,7 +4,7 @@
 
 <p>
   <h3> 🌱O QUE EU FAÇO: </h3>
-  <h4> -Atualmente estou estudando Engenharia da Computação na UEMA (Universidade Estadual do Maranhão), estou trabalhando em projetos envolvendo Java, HTML, CSS, Python e me interesso muito pela área de Back-End. Além disso,     estou aprofundando meus comnhecimentos     em Java, Python e C. Gosto de combinar criatividade com lógica para construir experiências únicas e funcionais.
+  <h4> -Atualmente estou estudando Engenharia da Computação na UEMA (Universidade Estadual do Maranhão), estou trabalhando em projetos envolvendo Java e me interesso muito pela área de Back-End. Além disso,     estou aprofundando meus comnhecimentos     em Java, Python e C. Gosto de combinar criatividade com lógica para construir experiências únicas e funcionais.
   </h4>
 </p>
 
