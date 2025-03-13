@@ -3,7 +3,11 @@ OLÁ! Meu nome é Samyra
 🌱O QUE EU FAÇO: 
 -Atualmente estou estudando Engenharia da Computação na UEMA (Universidade Estadual do Maranhão), estou trabalhando em projetos envolvendo Java, HTML, CSS, Python e me interesso muito pela área de Back-End. Além disso,     estou aprofundando meus comnhecimentos em Java, Python e C. Gosto de combinar criatividade com lógica para construir experiências únicas e funcionais.
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
   ![image](https://github.com/user-attachments/assets/5bf835d9-0f93-4988-a385-1fae534b16b0)
   ![image](https://github.com/user-attachments/assets/2afb3ae5-8348-4e12-b54d-cfaa43d31330)
   ![image](https://github.com/user-attachments/assets/553a6234-9a3a-41f3-93eb-64acb710f9bf)
